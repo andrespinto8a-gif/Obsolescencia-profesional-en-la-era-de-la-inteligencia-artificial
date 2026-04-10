@@ -1,2 +1,17 @@
-# Obsolescencia-profesional-en-la-era-de-la-inteligencia-artificial
-La inteligencia artifical en muy corto tiempo logro conseguir avances estupendos, desde el crecimiento profesional, o su desarrollo, pero aqui viene la pregunta, ¿Cuales son las carreras que se deben adaptar a los nuevos cambios?
+# AI & Automation in Ecuador
+
+## Data Science Portfolio Project
+
+Proyecto enfocado en analizar el impacto de la automatización y la IA en Ecuador.
+
+## Autor
+Andrés Pinto
+
+## Estructura
+- data/: datasets
+- notebooks/: análisis
+- src/: código modular
+- app/: visualización interactiva
+
+## Fecha
+2026-04-10
