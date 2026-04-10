@@ -2,7 +2,7 @@ from docx import Document
 
 doc = Document()
 
-content = """# 🎯 Risk Prioritization System
+content =  🎯 Risk Prioritization System
 
 ## 📌 Overview
 This project implements a structured approach to risk prioritization based on impact and probability criteria. It helps classify risks into four treatment categories: Accept, Reduce, Avoid, and Share.
